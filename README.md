@@ -1,5 +1,11 @@
-## Hi there 👋
-
+### testing testing, woooowowowoowoww....
+im tired its almost 3 AM im socially burnt out i'll make a proper cool profile thing tomorrow, or day after tomorrow, or maybe i'll procrastinate and eventually abandon this like all my other countless projects <br> <br>
+yayyy html works here <br> <br>
+soooo like ummmm....... hi i'm Axo <br> <br>
+i'm decent-ish at coding (i guess thats the whole point of github, coding and managing versions and stuff), i used to be pretty good at luau up until i cold-turkey-quit roblox ~early 2026. now i very occasionally mess around in polytoria creator 2.0 in terms of luau, i'm not as fluent as i used to be. <br> <br>
+i know a good bit of html/css, namely cause my whole fixation on indie web stuff. i fear i may be growing rusty though, due to the still-going hiatus i have on my neocities site. <br> <br>
+aaaand after that, i picked up godot. i'm not any better at gdscript than i am at luau or html, probably less so. godot's a lot less restrictive for lack of a better adjective, as in i'd probably have a lot more creative freedom compared to like, polytoria or roblox, in exchange for the learning curve plus not having a pre-built 3d system thing and all.
+<p style="color:#fa1982;">is this text pink colored, if so then yaaaayyy (trying to see how the html works here)</p>
 <!--
 **AxoMizc/AxoMizc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
